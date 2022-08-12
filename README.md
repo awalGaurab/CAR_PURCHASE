@@ -1,1 +1,2 @@
-# CAR_PURCHASE
+This project is related to prediction of the person will buy a car or not. I am trying to make a project to find that the user will buy a car or not with respect to age,gender and annual salary. The dataset is downloaded from kaggle website (https://www.kaggle.com/datasets/gabrielsantello/cars-purchase-decision-dataset). The dataset contains 5 columns user id, Gender,Age,Annual Salary and Purchased. Purchased is dependent feature and other four columns are independent feature.The Gender data is string type and other column are integer type.
+There are moving ahead with different steps like knowing data, cleaning and transforming data, and finally predicting with the help of classification model.
